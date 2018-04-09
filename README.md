@@ -6,6 +6,8 @@ Example code accompanying the following paper:
 
 A direct optic flow-based strategy for inverse flight altitude estimation with monocular vision and IMU measurements
 -------
+http://iopscience.iop.org/article/10.1088/1748-3190/aaa2be
+
 Pakpong Chirarattananon<br />
 pakpong.c@cityu.edu.hk<br />
 http://ris.mbe.cityu.edu.hk/<br />
