@@ -9,7 +9,7 @@ A direct optic flow-based strategy for inverse flight altitude estimation with m
 http://iopscience.iop.org/article/10.1088/1748-3190/aaa2be
 
 Pakpong Chirarattananon<br />
-pakpong.c@cityu.edu.hk<br />
+pakpong.c att cityu.edu.hk<br />
 http://ris.mbe.cityu.edu.hk/<br />
 City University of Hong Kong
 
